@@ -7,7 +7,7 @@ Support page content includes:
 - About Vimo
 - Contact information
 - Frequently asked questions
-- Privacy and data notes
+- Privacy policy and data notes
 
 ## GitHub Pages
 
@@ -24,3 +24,8 @@ https://brycez021.github.io/vimo/
 
 Use this URL as the App Store Connect **Support URL** after GitHub Pages finishes publishing.
 
+The privacy policy URL should be:
+
+https://brycez021.github.io/vimo/privacy.html
+
+Use this URL as the App Store Connect **Privacy Policy URL**.
