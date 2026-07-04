@@ -20,12 +20,12 @@ After pushing this repository, enable GitHub Pages in repository settings:
 
 The support URL should be:
 
-https://brycez021.github.io/vimo/
+https://brycez021.github.io/vimory/
 
 Use this URL as the App Store Connect **Support URL** after GitHub Pages finishes publishing.
 
 The privacy policy URL should be:
 
-https://brycez021.github.io/vimo/privacy.html
+https://brycez021.github.io/vimory/privacy.html
 
 Use this URL as the App Store Connect **Privacy Policy URL**.
