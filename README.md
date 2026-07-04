@@ -1,10 +1,10 @@
-# Vimo Support
+# Vimory Support
 
-This repository hosts the public support page for **Vimo**, an iOS video diary app.
+This repository hosts the public support page for **Vimory**, an iOS video diary app.
 
 Support page content includes:
 
-- About Vimo
+- About Vimory
 - Contact information
 - Frequently asked questions
 - Privacy policy and data notes
